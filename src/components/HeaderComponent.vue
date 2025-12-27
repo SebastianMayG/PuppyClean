@@ -10,11 +10,10 @@
             </div>
             
             <div>
-                <button class="bg-blue-500 text-white px-4 py-2 font-medium rounded-xl cursor-pointer">
+                <a class="bg-blue-500 text-white px-4 py-2 font-medium rounded-xl" href="https://t.me/Puppy_Clean_Bot" target="_blank">
                     Agendar cita
-                </button>
+                </a>
             </div>
-
         </div>
     </header>
 </template>
