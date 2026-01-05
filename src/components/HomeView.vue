@@ -87,7 +87,7 @@
                 </div>
                 <div>
                     <img
-                        src="/src/assets/xzHplr.svg"
+                        src="/src/assets/qrcode.png"
                         alt="Codigo QR"
                         class="w-70 md:w-90 drop-shadow-2xl"
                     />
